@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects involving Materials Informatics**
 
-- 👨‍💻 All of my projects are available at [pranoy-ray.github.io](pranoy-ray.github.io) and at my second github profile [@aviatorpranoy](github.com/aviatorpranoy)
+- 👨‍💻 All of my projects are available at [pranoy-ray.github.io](pranoy-ray.github.io) and at my second github profile [@aviatorpranoy](https://github.com/aviatorpranoy)
 
 - 📝 I regularly write articles on [pranoyspeaks.wordpress.com](pranoyspeaks.wordpress.com)
 
