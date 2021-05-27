@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aviatorpranoy" target="blank"><img src="https://img.shields.io/twitter/follow/aviatorpranoy?logo=twitter&style=for-the-badge" alt="aviatorpranoy" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Density Functional Theory**
+- 🌱 I’m currently working on **Deep Learning and Density Functional Theory**
 
-- 👯 I’m looking to collaborate on **Projects involving Materials Informatics**
+- 👯 I’m looking to collaborate on **Projects involving Materials Informatics**. My publications are available on my [Google Scholar](https://scholar.google.com/citations?user=SYuG3BUAAAAJ&hl=en&oi=ao) profile.
 
 - 👨‍💻 All of my projects are available at [pranoy-ray.github.io](pranoy-ray.github.io) and at my second github profile [@aviatorpranoy](https://github.com/aviatorpranoy)
 
 - 📝 I regularly write articles on [pranoyspeaks.wordpress.com](pranoyspeaks.wordpress.com)
 
-- 📫 How to reach me **pranoyray64@gmail.com**
+- 📫 Email me at **pranoyray64@gmail.com**
 
 - ⚡ Fun fact **A conversation with me about aircrafts and plane spotting, can surely blow your mind :)**
 
