@@ -15,7 +15,7 @@ When I don't </>, I love to get off the grid and go on treks. I plan to get my p
 </ul>
 
 
-<heading>Research</heading>
+<h2>Research</h2>
 <h3 style="color:darkcyan;"> Invited Talks </h3>
 <h4 style="color:blue;"><i> 2023 </i></h4>
 <ul>
@@ -80,7 +80,7 @@ When I don't </>, I love to get off the grid and go on treks. I plan to get my p
 * Indicates the presenting author
 
 
-<heading>Grants & Accolades</heading>
+<h2>Grants & Accolades</h2>
 <ul>
 <li><strong>CMS3 2022 Fellowship</strong>: Texas A&M University (College Station, TX, USA)</li>
 <li><strong>TEQIP III Grant [NIT Durgapur]</strong> Travel Grant to present my poster at DAE-CCS 2019 (Mumbai, MH, India)</li>
