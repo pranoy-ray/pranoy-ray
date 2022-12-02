@@ -14,9 +14,7 @@ When I don't </>, I love to get off the grid and go on treks. I plan to get my p
   <li> <a href="https://pranoyr.medium.com/">Medium</a>
 </ul>
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" id="res">
-          <tr>
-            <td>
+
               <heading>Research</heading>
               <h3 style="color:darkcyan;"> Invited Talks </h3>
                 <h4 style="color:blue;"><i> 2023 </i></h4>
@@ -82,23 +80,13 @@ When I don't </>, I love to get off the grid and go on treks. I plan to get my p
               </ul>
                 <br>
                 * Indicates the presenting author
-            </td>
-          </tr>
-        </table>
-            
-           
-               
 
-          <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-            <tr>
-              <td>
-                <heading>Grants & Accolades</heading>
-                <ul>
-                  <li><strong>CMS3 2022 Fellowship</strong>: Texas A&M University (College Station, TX, USA)</li>
-                  <li><strong>TEQIP III Grant [NIT Durgapur]</strong> Travel Grant to present my poster at DAE-CCS 2019 (Mumbai, MH, India)</li>
+
+<heading>Grants & Accolades</heading>
+<ul>
+<li><strong>CMS3 2022 Fellowship</strong>: Texas A&M University (College Station, TX, USA)</li>
+<li><strong>TEQIP III Grant [NIT Durgapur]</strong> Travel Grant to present my poster at DAE-CCS 2019 (Mumbai, MH, India)</li>
                   <!--<li><strong>[Coursera]</strong> Grant of Financial Aid to pursue Stanford University's ML Course</li>-->
     
-                </ul>
-              </td>
-            </tr>
-          </table>
+</ul>
+
