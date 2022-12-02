@@ -14,7 +14,7 @@ When I don't </>, I love to get off the grid and go on treks. I plan to get my p
   <li> <a href="https://pranoyr.medium.com/">Medium</a>
 </ul>
 
-          <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" id="res">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" id="res">
           <tr>
             <td>
               <heading>Research</heading>
