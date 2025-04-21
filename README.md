@@ -1,10 +1,10 @@
 <h2> Hello World! </h2>
 
-I’m a computational materials science researcher focused on building data-driven models and automation tools to address fundamental and applied problems in the pursuit of accelerated materials discovery. My advisor is Dr. Surya Kalidindi and I work as a doctoral researcher at the MINED Group in GeorgiaTech. My work involves developing autonomous systems for materials design and modeling to support materials design and discovery.
+I am a computational materials science researcher focused on building data-driven models and automation tools to address fundamental and applied problems in the pursuit of accelerated materials discovery. Presently, I am a doctoral candidate at the MINED Group in GeorgiaTech(advised by Dr. Surya Kalidindi), where I develop autonomous systems for robust materials design and modeling.
 
-I completed my undergraduate Thesis under Dr. Brahmananda Chakraborty at the High Pressure and Synchroton Radiation Physics Division (HP&SRPD) in Bhabha Atomic Research Centre, Mumbai, India. My main research focus was on applications of Density Functional Theory to develop novel materials for Solid-State Hydrogen Storage.
+Prior to joining GT, I conducted research with the late Dr. Srikumar Banerjee (Padma Shri - 2005; former Chairman, Department of Atomic Energy, Govt. of India) and Dr. Brahmananda Chakraborty (Scientist H @High Pressure and Synchroton Radiation Physics Division) at the Bhabha Atomic Research Centre in Mumbai (India), where we thereotically discovered sustainable materials for efficient solid-state Hydrogen Storage.
 
-When I don't </>, I love to get off the grid and go on treks. I plan to get my pilot's license soon.
+I am on the job market (2026) and looking for industrial research positions. Do not hesitate to reach out to me if you think I am a good fit!
 
 <h4>Important Links</h4>
 <ul>
