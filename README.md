@@ -5,7 +5,8 @@ Computational Materials \& Data Scientist specializing in Materials Informatics 
 <h4>Important Links</h4>
 <ul>
   <li> <a href="https://github.com/pranoy-ray/pranoy-ray.github.io/blob/main/Pranoy_CV.pdf">Vitae</a>
-  <li> <a href="https://pranoy-ray.github.io/">Personal Website</a>
+    <li> <a href="https://www.linkedin.com/in/pranoyr/">LinkedIN</a>
+  <li> <a href="https://pranoy-ray.github.io/">Homepage</a>
   <li> <a href="https://scholar.google.com/citations?user=SYuG3BUAAAAJ&hl=en&oi=ao">Google Scholar</a>
-  <li> <a href="https://twitter.com/aviatorpranoy">Twitter</a>
+  <!--<li> <a href="https://twitter.com/aviatorpranoy">Twitter</a>-->
 </ul>
