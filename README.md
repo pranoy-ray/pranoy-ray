@@ -1,4 +1,4 @@
-<h2> Hello World! </h2>
+<!--<h2> Hello World! </h2>-->
 
 Computational Materials \& Data Scientist specializing in Materials Informatics using Bayesian statistics for multiscale modeling. Expertise includes developing efficient feature engineering methods for robust materials process-structure-property relationships, and integrating physics-based constraints with data-driven AI/ML models on HPC systems. Innovative R\&D professional with a track record of driving technical deliverables and leading diverse teams in fast-paced research environments. Presently a final year PhD candidate, expecting to graduate in May 2026 (Spring).
 
